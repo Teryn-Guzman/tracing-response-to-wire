@@ -1,0 +1,10 @@
+# Compiled program
+wirelab
+
+# Go test files and coverage output
+coverage.out
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
